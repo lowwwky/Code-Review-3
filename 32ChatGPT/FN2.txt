@@ -1,0 +1,8 @@
+Result: 11
+
+Prefix:
++ x - * 2 5 4 
+Postfix:
+x 2 5 * 4 - + 
+Infix:
+((x)+(((2)*(5))-(4)))

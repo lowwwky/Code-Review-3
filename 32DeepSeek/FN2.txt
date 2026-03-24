@@ -1,0 +1,10 @@
+Result: 11
+
+Prefix form:
++ - * 2 5 4 x
+
+Postfix form:
+2 5 * 4 - x +
+
+Infix form with redundant parentheses:
+(((2 * 5) - 4) + x)
